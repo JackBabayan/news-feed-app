@@ -1,0 +1,41 @@
+.card {
+  margin-bottom: 16px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.spaceVertical {
+  width: 100%;
+}
+
+.title {
+  margin: 0;
+  color: #1890ff;
+}
+
+.paragraph {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #666;
+}
+
+.tag {
+  border-radius: 12px;
+}
+
+.iconLike {
+  color: #1890ff;
+}
+
+.iconDislike {
+  color: #52c41a;
+}
+
+.iconView {
+  color: #faad14;
+}
+
+.postId {
+  font-size: 12px;
+}
